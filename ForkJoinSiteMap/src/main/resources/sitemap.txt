@@ -1,0 +1,19 @@
+https://common-lisp.net/
+	https://common-lisp.net/
+	https://common-lisp.net/downloads
+	https://common-lisp.net/documentation
+	https://common-lisp.net/community
+	https://common-lisp.net/project-intro
+	https://common-lisp.net/phub
+	https://common-lisp.net/implementations
+	https://common-lisp.net/libraries
+	https://common-lisp.net/tools
+	https://common-lisp.net/faq
+		https://common-lisp.net/faq/emailonpush
+		https://common-lisp.net/faq/using-gitlab-deploy-project-pages
+	https://common-lisp.net/lisp-companies
+	https://common-lisp.net/contribute
+	https://common-lisp.net/about
+	https://common-lisp.net/news
+	https://common-lisp.net/features
+	https://common-lisp.net/independent-lists
